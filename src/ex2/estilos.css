@@ -1,0 +1,177 @@
+body{
+  background-image: url("./img/35-fondos-de-pantalla-fondos-de-madera-hd-para-descargar-gratis.-wallpaper-para-escritorio-hd-1080p-de-madera.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+.centrado{
+    text-align: center;
+}
+h3 {
+    padding-left: 45%;
+    padding-right: 50%;
+}
+.colores-de-fondo{
+    display: flex;
+    justify-content: center;
+  
+}
+.row-one{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+}
+.row-two{
+    display: flex;
+    flex-direction: row;
+}
+.row-three{
+    display: flex;
+    flex-direction: row;
+}
+.row-four{
+    display: flex;
+    flex-direction: row;
+}
+div {
+    border-style: groove;
+    border-color: black;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.Colores-de-letra{
+    display: flex;
+    justify-content: center;
+  
+}
+#fondo-negro{
+    background-color: black;
+    padding: 50px;
+}
+#fondo-teal{
+    background-color: teal;
+    padding: 50px;
+}
+#fondo-blue{
+    background-color: blue;
+    padding: 50px;
+}
+#fondo-navy{
+    background-color: navy;
+    padding: 50px;
+}
+#fondo-lime{
+    background-color: lime;
+    padding: 50px;
+}
+#fondo-white{
+    background-color: white;
+    padding: 50px;
+}
+#fondo-purple{
+    background-color: purple;
+    padding: 45px;
+}
+#fondo-yellow{
+    background-color: yellow;
+    padding: 45px;
+}
+#fondo-olive{
+    background-color: olive;
+    padding: 50px;
+}
+#fondo-red{
+    background-color: red;
+    padding: 50px;
+}
+#fondo-marron{
+    background-color: maroon;
+    padding: 45px;
+}
+#fondo-gray{
+    background-color: gray;
+    padding: 50px;
+}
+#fondo-fuchsia{
+    background-color: fuchsia;
+    padding: 50px;
+}
+#fondo-green{
+    background-color: green;
+    padding: 50px 295px 50px 50px;
+}
+.contenedor1{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+}
+.contenedor2{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+}
+#word-black{
+    padding: 5px;
+}
+#word-teal{
+    color: teal;
+    padding: 5px;
+}
+#word-blue{
+    color: blue;
+    padding: 5px;
+}
+#word-navy{
+    color: navy;
+    padding: 5px;
+}
+#word-lime{
+    color: lime;
+    padding: 5px;
+}
+#word-white{
+    color:white;
+    padding: 5px;
+}
+#word-purple{
+    color: purple;
+    padding:5px
+}
+#word-yellow{
+    color: yellow;
+    padding: 5px;
+}
+#word-olive{
+    color: olive;
+    padding:5px;
+}
+#word-red{
+    color: red;
+    padding: 5px;
+}
+#word-marron{
+    color: maroon;
+    padding: 5px;
+}
+#word-gray{
+    color: gray;
+    padding: 5px;
+}
+#word-fuchsia{
+    color: fuchsia;
+    padding: 5px;
+}
+#word-green{
+    color: green;
+    padding:5px;
+}
+#word-aqua{
+    color: aqua;
+    padding: 5px;
+}
+#word-silver{
+    color: silver;
+    padding:5px;
+}
